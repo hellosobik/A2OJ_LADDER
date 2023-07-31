@@ -40,17 +40,8 @@ int main(){
             on_place--;
         }
 
-        // cout << num_array[i] << " " ;
     }
-    // int result;
-    // if (parent_num_array[i].size()-on_place==0)
-    // {
-    //     result=0;
-    // }else if(parent_num_array[i].size()-on_place==1){
-    //     result=1;
-    // }else{
-    //     result=parent_num_array[i].size()-on_place-1;
-    // }
+
     
     cout << ceil((parent_num_array[i].size()-on_place)*(0.5)) << "\n";
     }
