@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-using namespace std; // try comment of trial_1 branch
+using namespace std; // try comment of trial_1
 
 int main() {
   string num;
