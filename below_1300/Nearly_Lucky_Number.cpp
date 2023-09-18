@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-using namespace std; // try comment of trial_1
+using namespace std; // try comment of trial_1 life could be dream
 
 int main() {
   string num;
